@@ -1,0 +1,21 @@
+{
+  "name": "rtheme",
+  "displayName": "rTheme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rTheme-color-theme.json"
+      }
+    ]
+  }
+}
