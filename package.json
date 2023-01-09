@@ -3,6 +3,13 @@
   "displayName": "rTheme",
   "description": "",
   "version": "0.0.1",
+  "icon": "images/logo.png",
+  "author": "rzce",
+  "publisher": "rzceoffical",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rzceoffical/rtheme"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
